@@ -1,0 +1,5 @@
+[32mINFO    [0m api_tests_logger:test_boss.py:76 Создана базовая задача для теста GET по ID. Присвоен ID: 311
+[32mINFO    [0m api_tests_logger:test_boss.py:77 Отправка GET-запроса по ID на адрес: http://localhost:3000/api/tasks/311
+[32mINFO    [0m api_tests_logger:test_boss.py:81 Получен ответ карточки задачи. Статус-код: 200
+[32mINFO    [0m api_tests_logger:test_boss.py:82 Тело ответа карточки задачи: {"id":311,"title":"Конструкция.","description":null,"status":"pending"}
+[32mINFO    [0m api_tests_logger:test_boss.py:92 JSON-контракт карточки задачи успешно проверен через Pydantic!

@@ -1,0 +1,4 @@
+[32mINFO    [0m api_tests_logger:test_boss.py:36 Сгенерированы данные задачи. Название: 'Неправда достоинство оставить.', Описание: 'Остановить июнь тревога юный еврейский.'
+[32mINFO    [0m api_tests_logger:test_boss.py:43 Отправка POST-запроса на создание задачи по адресу: http://localhost:3000/api/tasks
+[32mINFO    [0m api_tests_logger:test_boss.py:48 Получен ответ от сервера. Статус-код: 201
+[32mINFO    [0m api_tests_logger:test_boss.py:49 Тело ответа сервера (JSON): {"id":310,"title":"Неправда достоинство оставить.","description":"Остановить июнь тревога юный еврейский.","status":"pending"}
